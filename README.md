@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://clarksimsonmiller.com/wp-content/uploads/2019/06/syracuse-ny-page.gif))](https://rishavchanda.io)
+![MasterHead Image](https://clarksimsonmiller.com/wp-content/uploads/2019/06/syracuse-ny-page.gif)
 
 # 💫 Hello :D
 
@@ -6,9 +6,11 @@
 I am passionate about **programming and development**, and I also enjoy sharing **music** as a hobby.
 My preferred programming languages are **Python** and **C++**!
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)">
+<p align="right">
+  <img src="https://t1.daumcdn.net/cafeattach/1Yhqa/52a9767480ada3100f5b1df26141c65d49f22bd9" alt="Right Aligned Image" width="300">
+</p>
 
-###
+# What I'm Working On...
 🔭 **I’m currently exploring on projects..**<br>related to **Object-Oriented Programming (OOP)** and **software engineering** as part of my academic coursework.
 <br>I’m also working on small personal projects, such as **web-based calculators** and **todo list applications**.<br><br>👯 **I’m looking to collaborate on...**<br>beginner-friendly open-source projects that focus on:**<br>- **Web development** (HTML, CSS, JavaScript)<br>- **Data visualization** (Python, Matplotlib, Seaborn)<br>- **Academic tools or utilities** for students.<br><br>🤝 **I’m looking for help with...** <br>     ✅ Best practices for writing **clean, maintainable code**.<br>     ✅ Understanding **design patterns** in software engineering.<br>     ✅ Debugging and improving **code efficiency**.<br><br>
 🌱 **I’m currently learning...** <br>- **Advanced JavaScript concepts** (closures, promises, etc).<br>- **Version control** using Git and GitHub.<br>- **Data structures and algorithms** (focusing on problem-solving skills).<br><br>💬 **Let's share about...** <br>- My journey in learning programming as a college student.<br>- Tips for starting with **C++** or **Python**.<br>- How I balance academic projects and personal coding!
@@ -16,7 +18,27 @@ My preferred programming languages are **Python** and **C++**!
 ### 👀 *Feel free to reach out if you're interested in collaborating or have exciting ideas to share!* 👀
 
 <br>⚡ **Fun fact** - INFJ
+<br>
 
+# 🚀 Projects_
+*Here are the projects I’ve been working on:*
+
+### 1. **AI Chatbot**
+- **Description:** A chatbot using Python and TensorFlow for intent recognition.
+- **Tech Stack:** Python, TensorFlow, Flask
+- **Highlight:** Achieved 85% accuracy in understanding user intents.
+
+### 2. **Portfolio Website**
+- **Description:** A responsive site showcasing my projects and skills.
+- **Tech Stack:** React, Firebase
+- **Highlight:** Optimized for mobile and desktop, includes a blog section.
+
+### 3. **Image Classifier**
+- **Description:** A CNN-based model for image classification.
+- **Tech Stack:** PyTorch, Python
+- **Highlight:** Achieved 92% accuracy on test data.
+
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1309456541791027240/1309456541791027243) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kyle_makarov) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kylemakarovloop) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kylemkr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/    ) 
