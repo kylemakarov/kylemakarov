@@ -4,7 +4,9 @@
 
 👋 My name is Jin-hwan Park, and I am an aspiring programmer currently studying at Chung-Ang University in South Korea. <br>
 I am passionate about **programming and development**, and I also enjoy sharing **music** as a hobby.
-My preferred programming languages are **Python** and **C++**!
+
+<br>
+💎 My preferred programming languages are **Python** and **C++**!
 
 <p align="right">
   <img src="https://t1.daumcdn.net/cafeattach/1Yhqa/52a9767480ada3100f5b1df26141c65d49f22bd9" alt="Right Aligned Image" width="300">
